@@ -1,4 +1,4 @@
-hehr
+HEHR
 ====
 
 Health EHR an open Source EHR
